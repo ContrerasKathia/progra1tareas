@@ -27,7 +27,7 @@ Algoritmo Calculadora
 				Leer segundo;
 				resultado <- primero-segundo;
 				Escribir 'El resultado de la resta de: ', primero, '-', segundo, '=', resultado;
-				Escribir 'Presione Enter...';
+				Escribir 'Presione Enter ...';
 				Esperar Tecla;
 				Limpiar Pantalla;
 			SiNo
