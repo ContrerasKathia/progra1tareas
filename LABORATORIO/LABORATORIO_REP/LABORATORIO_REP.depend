@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708831596 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\progra1tareas\laboratorio\laboratorio_rep\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
