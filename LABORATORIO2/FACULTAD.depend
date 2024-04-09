@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712623733 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\matriz facultad\facultad\main.cpp
+	"Facultades.h"
+
+1712624869 source:c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\matriz facultad\facultad\src\facultades.cpp
+	"Facultades.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1712624861 c:\users\cluba\onedrive\documents\kat ing\semetre3\progra\progra1\matriz facultad\facultad\include\facultades.h
+	<iostream>
+	<iomanip>
+	<string>
+
